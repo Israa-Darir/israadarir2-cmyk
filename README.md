@@ -219,6 +219,4 @@ Software Engineering Student | Aspiring Software Developer
 ⭐ Thanks for visiting my GitHub profile!
 </p>
 
-### 💻 Programming Projects
 
-Technologies:
